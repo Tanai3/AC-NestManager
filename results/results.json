@@ -1,0 +1,692 @@
+[
+    {
+        "You": {
+            "HEAD": "LAMMERGEIER/44F",
+            "CORE": "CC-3000 WRECKER",
+            "ARM": "VE-46A",
+            "LEG": "2S-5000 DESSERT",
+            "BOOSTER": "FLUEGEL/21Z",
+            "FCS": "FC-008 TALBOT",
+            "GENERATOR": "DF-GN-08 SAN-TAI",
+            "R-ARM": "DF-GA-08 HU-BEN",
+            "L-ARM": "IA-C01W2: MOONLIGHT",
+            "R-BACK": "KRANICH/60Z",
+            "L-BACK": "SONGBIRDS"
+        },
+        "Opponent": {
+            "HEAD": "AH-J-124 BASHO",
+            "CORE": "AC-J-120 BASHO",
+            "ARM": "AA-J-123 BASHO",
+            "LEG": "AL-J-121 BASHO",
+            "BOOSTER": "AB-J-137 KIKAKU",
+            "FCS": "FCS-G1/P01",
+            "GENERATOR": "AG-J-098 JOSO",
+            "R-ARM": "MA-J-200 RANSETSU-RF",
+            "L-ARM": "PB-033M ASHMEAD",
+            "R-BACK": "MA-J-200 RANSETSU-RF",
+            "L-BACK": "PB-033M ASHMEAD"
+        },
+        "Result": "Win",
+        "Time": "2024/06/02"
+    },
+    {
+        "You": {
+            "HEAD": "LAMMERGEIER/44F",
+            "CORE": "CC-3000 WRECKER",
+            "ARM": "VE-46A",
+            "LEG": "2S-5000 DESSERT",
+            "BOOSTER": "FLUEGEL/21Z",
+            "FCS": "FC-008 TALBOT",
+            "GENERATOR": "DF-GN-08 SAN-TAI",
+            "R-ARM": "DF-GA-08 HU-BEN",
+            "L-ARM": "IA-C01W2: MOONLIGHT",
+            "R-BACK": "KRANICH/60Z",
+            "L-BACK": "SONGBIRDS"
+        },
+        "Opponent": {
+            "HEAD": "AH-J-124 BASHO",
+            "CORE": "AC-J-120 BASHO",
+            "ARM": "AA-J-123 BASHO",
+            "LEG": "AL-J-121 BASHO",
+            "BOOSTER": "AB-J-137 KIKAKU",
+            "FCS": "FCS-G1/P01",
+            "GENERATOR": "AG-J-098 JOSO",
+            "R-ARM": "MA-J-200 RANSETSU-RF",
+            "L-ARM": "PB-033M ASHMEAD",
+            "R-BACK": "MA-J-200 RANSETSU-RF",
+            "L-BACK": "PB-033M ASHMEAD"
+        },
+        "Result": "Lose",
+        "Time": "2024/06/02"
+    },
+    {
+        "You": {
+            "HEAD": "20-082 MIND BETA",
+            "CORE": "07-061 MIND ALPHA",
+            "ARM": "AA-J-123 BASHO",
+            "LEG": "VP-422",
+            "BOOSTER": "IB-C03B: NGI 001",
+            "FCS": "IA-C01F: OCELLUS",
+            "GENERATOR": "VE-20B",
+            "R-ARM": "MA-E-210 ETSUJIN",
+            "L-ARM": "VE-66LRB",
+            "R-BACK": "BML-G2/P05MLT-10",
+            "L-BACK": "Vvc-760PR"
+        },
+        "Opponent": {
+            "HEAD": "IA-C01H: EPHEMERA",
+            "CORE": "LAMMERGEIER/40F",
+            "ARM": "AA-J-123 BASHO",
+            "LEG": "LAMMERGEIER/42F",
+            "BOOSTER": "FLUEGEL/21Z",
+            "FCS": "FCS-G2/P10SLT",
+            "GENERATOR": "IB-C03G: NGI 000",
+            "R-ARM": "IA-C01W1: NEBULA",
+            "L-ARM": "PFAU/66D",
+            "R-BACK": "IB-C03W3: NGI 006",
+            "L-BACK": "44-143 HMMR"
+        },
+        "Result": "Win",
+        "Time": "2024/06/07"
+    },
+    {
+        "You": {
+            "HEAD": "20-082 MIND BETA",
+            "CORE": "07-061 MIND ALPHA",
+            "ARM": "AA-J-123 BASHO",
+            "LEG": "VP-422",
+            "BOOSTER": "IB-C03B: NGI 001",
+            "FCS": "IA-C01F: OCELLUS",
+            "GENERATOR": "VE-20B",
+            "R-ARM": "MA-E-210 ETSUJIN",
+            "L-ARM": "VE-66LRB",
+            "R-BACK": "BML-G2/P05MLT-10",
+            "L-BACK": "Vvc-760PR"
+        },
+        "Opponent": {
+            "HEAD": "VP-44D",
+            "CORE": "EL-PC-00 ALBA",
+            "ARM": "NACHTREIHER/46E",
+            "LEG": "NACHTREIHER/42E",
+            "BOOSTER": "BST-G2/P06SPD",
+            "FCS": "IB-C03F: WLT 001",
+            "GENERATOR": "VP-20C",
+            "R-ARM": "MA-J-200 RANSETSU-RF",
+            "L-ARM": "MA-E-210 ETSUJIN",
+            "R-BACK": "PFAU/66D",
+            "L-BACK": "45-091 JVLN BETA"
+        },
+        "Result": "Win",
+        "Time": "2024/06/10"
+    },
+    {
+        "You": {
+            "HEAD": "20-082 MIND BETA",
+            "CORE": "07-061 MIND ALPHA",
+            "ARM": "AA-J-123 BASHO",
+            "LEG": "VP-422",
+            "BOOSTER": "IB-C03B: NGI 001",
+            "FCS": "IA-C01F: OCELLUS",
+            "GENERATOR": "VE-20B",
+            "R-ARM": "MA-E-210 ETSUJIN",
+            "L-ARM": "VE-66LRB",
+            "R-BACK": "BML-G2/P05MLT-10",
+            "L-BACK": "Vvc-760PR"
+        },
+        "Opponent": {
+            "HEAD": "20-082 MIND BETA",
+            "CORE": "VE-40A",
+            "ARM": "DF-AR-09 TIAN-LAO",
+            "LEG": "LG-022T BORNEMISSZA",
+            "BOOSTER": "BC-0400 MULE",
+            "FCS": "IA-C01F: OCELLUS",
+            "GENERATOR": "VE-20B",
+            "R-ARM": "HML-G2/P19MLT-04",
+            "L-ARM": "HML-G3/P08SPL-06",
+            "R-BACK": "VP-60LCD",
+            "L-BACK": "VP-60LCD"
+        },
+        "Result": "Win",
+        "Time": "2024/06/10"
+    },
+    {
+        "You": {
+            "HEAD": "20-082 MIND BETA",
+            "CORE": "07-061 MIND ALPHA",
+            "ARM": "AA-J-123 BASHO",
+            "LEG": "VP-422",
+            "BOOSTER": "IB-C03B: NGI 001",
+            "FCS": "IA-C01F: OCELLUS",
+            "GENERATOR": "VE-20B",
+            "R-ARM": "MA-E-210 ETSUJIN",
+            "L-ARM": "VE-66LRB",
+            "R-BACK": "BML-G2/P05MLT-10",
+            "L-BACK": "Vvc-760PR"
+        },
+        "Opponent": {
+            "HEAD": "VP-44D",
+            "CORE": "NACHTREIHER/40E",
+            "ARM": "EL-TA-10 FIRMEZA",
+            "LEG": "NACHTREIHER/42E",
+            "BOOSTER": "ALULA/21E",
+            "FCS": "IB-C03F: WLT 001",
+            "GENERATOR": "VP-20C",
+            "R-ARM": "LR-037 HARRIS",
+            "L-ARM": "MA-J-200 RANSETSU-RF",
+            "R-BACK": "BML-G2/P03MLT-06",
+            "L-BACK": "Vvc-70VPM"
+        },
+        "Result": "Win",
+        "Time": "2024/06/10"
+    },
+    {
+        "You": {
+            "HEAD": "20-082 MIND BETA",
+            "CORE": "07-061 MIND ALPHA",
+            "ARM": "AA-J-123 BASHO",
+            "LEG": "VP-422",
+            "BOOSTER": "IB-C03B: NGI 001",
+            "FCS": "IA-C01F: OCELLUS",
+            "GENERATOR": "VE-20B",
+            "R-ARM": "MA-E-210 ETSUJIN",
+            "L-ARM": "VE-66LRB",
+            "R-BACK": "BML-G2/P05MLT-10",
+            "L-BACK": "Vvc-760PR"
+        },
+        "Opponent": {
+            "HEAD": "IB-C03H: HAL 826",
+            "CORE": "IA-C01C: EPHEMERA",
+            "ARM": "LAMMERGEIER/46F",
+            "LEG": "NACHTREIHER/42E",
+            "BOOSTER": "ALULA/21E",
+            "FCS": "IA-C01F: OCELLUS",
+            "GENERATOR": "DF-GN-08 SAN-TAI",
+            "R-ARM": "HG-003 COQUILLETT",
+            "L-ARM": "HG-003 COQUILLETT",
+            "R-BACK": "Vvc-700LD",
+            "L-BACK": "Vvc-774LS"
+        },
+        "Result": "Win",
+        "Time": "2024/06/10"
+    },
+    {
+        "You": {
+            "HEAD": "20-082 MIND BETA",
+            "CORE": "07-061 MIND ALPHA",
+            "ARM": "AA-J-123 BASHO",
+            "LEG": "VP-422",
+            "BOOSTER": "IB-C03B: NGI 001",
+            "FCS": "IA-C01F: OCELLUS",
+            "GENERATOR": "VE-20B",
+            "R-ARM": "MA-E-210 ETSUJIN",
+            "L-ARM": "VE-66LRB",
+            "R-BACK": "BML-G2/P05MLT-10",
+            "L-BACK": "Vvc-760PR"
+        },
+        "Opponent": {
+            "HEAD": "HC-2000/BC SHADE EYE",
+            "CORE": "NACHTREIHER/40E",
+            "ARM": "AA-J-123 BASHO",
+            "LEG": "NACHTREIHER/42E",
+            "BOOSTER": "ALULA/21E",
+            "FCS": "IA-C01F: OCELLUS",
+            "GENERATOR": "DF-GN-08 SAN-TAI",
+            "R-ARM": "MA-E-210 ETSUJIN",
+            "L-ARM": "MA-E-210 ETSUJIN",
+            "R-BACK": "PFAU/66D",
+            "L-BACK": "HI-32: BU-TT/A"
+        },
+        "Result": "Win",
+        "Time": "2024/06/10"
+    },
+    {
+        "You": {
+            "HEAD": "20-082 MIND BETA",
+            "CORE": "07-061 MIND ALPHA",
+            "ARM": "AA-J-123 BASHO",
+            "LEG": "VP-422",
+            "BOOSTER": "IB-C03B: NGI 001",
+            "FCS": "IA-C01F: OCELLUS",
+            "GENERATOR": "VE-20B",
+            "R-ARM": "MA-E-210 ETSUJIN",
+            "L-ARM": "VE-66LRB",
+            "R-BACK": "BML-G2/P05MLT-10",
+            "L-BACK": "Vvc-760PR"
+        },
+        "Opponent": {
+            "HEAD": "HD-033M VERRILL",
+            "CORE": "LAMMERGEIER/40F",
+            "ARM": "AA-J-123 BASHO",
+            "LEG": "LAMMERGEIER/42F",
+            "BOOSTER": "IB-C03B: NGI 001",
+            "FCS": "FCS-G2/P10SLT",
+            "GENERATOR": "IB-C03G: NGI 000",
+            "R-ARM": "IA-C01W1: NEBULA",
+            "L-ARM": "HML-G3/P08SPL-06",
+            "R-BACK": "IB-C03W3: NGI 006",
+            "L-BACK": "44-143 HMMR"
+        },
+        "Result": "Win",
+        "Time": "2024/06/10"
+    },
+    {
+        "You": {
+            "HEAD": "20-082 MIND BETA",
+            "CORE": "07-061 MIND ALPHA",
+            "ARM": "AA-J-123 BASHO",
+            "LEG": "VP-422",
+            "BOOSTER": "IB-C03B: NGI 001",
+            "FCS": "IA-C01F: OCELLUS",
+            "GENERATOR": "VE-20B",
+            "R-ARM": "MA-E-210 ETSUJIN",
+            "L-ARM": "VE-66LRB",
+            "R-BACK": "BML-G2/P05MLT-10",
+            "L-BACK": "Vvc-760PR"
+        },
+        "Opponent": {
+            "HEAD": "VP-44D",
+            "CORE": "NACHTREIHER/40E",
+            "ARM": "AA-J-123 BASHO",
+            "LEG": "LAMMERGEIER/42F",
+            "BOOSTER": "IB-C03B: NGI 001",
+            "FCS": "FCS-G2/P10SLT",
+            "GENERATOR": "IB-C03G: NGI 000",
+            "R-ARM": "IA-C01W1: NEBULA",
+            "L-ARM": "HML-G3/P08SPL-06",
+            "R-BACK": "IB-C03W3: NGI 006",
+            "L-BACK": "44-143 HMMR"
+        },
+        "Result": "Win",
+        "Time": "2024/06/10"
+    },
+    {
+        "You": {
+            "HEAD": "20-082 MIND BETA",
+            "CORE": "07-061 MIND ALPHA",
+            "ARM": "AA-J-123 BASHO",
+            "LEG": "VP-422",
+            "BOOSTER": "IB-C03B: NGI 001",
+            "FCS": "IA-C01F: OCELLUS",
+            "GENERATOR": "VE-20B",
+            "R-ARM": "MA-E-210 ETSUJIN",
+            "L-ARM": "VE-66LRB",
+            "R-BACK": "BML-G2/P05MLT-10",
+            "L-BACK": "Vvc-760PR"
+        },
+        "Opponent": {
+            "HEAD": "HC-3000 WRECKER",
+            "CORE": "EL-PC-00 ALBA",
+            "ARM": "AA-J-123 BASHO",
+            "LEG": "NACHTREIHER/42E",
+            "BOOSTER": "ALULA/21E",
+            "FCS": "IA-C01F: OCELLUS",
+            "GENERATOR": "DF-GN-08 SAN-TAI",
+            "R-ARM": "EL-PW-00 VIENTO",
+            "L-ARM": "WB-0010 DOUBLE TROUBLE",
+            "R-BACK": "Vvc-703PM",
+            "L-BACK": "EL-PW-00 VIENTO"
+        },
+        "Result": "Lose",
+        "Time": "2024/06/11"
+    },
+    {
+        "You": {
+            "HEAD": "20-082 MIND BETA",
+            "CORE": "07-061 MIND ALPHA",
+            "ARM": "AA-J-123 BASHO",
+            "LEG": "VP-422",
+            "BOOSTER": "IB-C03B: NGI 001",
+            "FCS": "IA-C01F: OCELLUS",
+            "GENERATOR": "VE-20B",
+            "R-ARM": "MA-E-210 ETSUJIN",
+            "L-ARM": "VE-66LRB",
+            "R-BACK": "BML-G2/P05MLT-10",
+            "L-BACK": "Vvc-760PR"
+        },
+        "Opponent": {
+            "HEAD": "KASUAR/44Z",
+            "CORE": "DF-BD-08 TIAN-QIANG",
+            "ARM": "AA-J-123 BASHO",
+            "LEG": "VP-422",
+            "BOOSTER": "ALULA/21E",
+            "FCS": "IA-C01F: OCELLUS",
+            "GENERATOR": "DF-GN-08 SAN-TAI",
+            "R-ARM": "MA-E-210 ETSUJIN",
+            "L-ARM": "MA-E-210 ETSUJIN",
+            "R-BACK": "Vvc-700LD",
+            "L-BACK": "44-143 HMMR"
+        },
+        "Result": "Win",
+        "Time": "2024/06/11"
+    },
+    {
+        "You": {
+            "HEAD": "20-082 MIND BETA",
+            "CORE": "07-061 MIND ALPHA",
+            "ARM": "AA-J-123 BASHO",
+            "LEG": "VP-422",
+            "BOOSTER": "IB-C03B: NGI 001",
+            "FCS": "IA-C01F: OCELLUS",
+            "GENERATOR": "VE-20B",
+            "R-ARM": "MA-E-210 ETSUJIN",
+            "L-ARM": "VE-66LRB",
+            "R-BACK": "BML-G2/P05MLT-10",
+            "L-BACK": "Vvc-760PR"
+        },
+        "Opponent": {
+            "HEAD": "VP-44D",
+            "CORE": "NACHTREIHER/40E",
+            "ARM": "AA-J-123 BASHO",
+            "LEG": "NACHTREIHER/42E",
+            "BOOSTER": "ALULA/21E",
+            "FCS": "FCS-G2/P10SLT",
+            "GENERATOR": "DF-GN-08 SAN-TAI",
+            "R-ARM": "WS-1200 THERAPIST",
+            "L-ARM": "WS-1200 THERAPIST",
+            "R-BACK": "45-091 JVLN BETA",
+            "L-BACK": "Vvc-703PM"
+        },
+        "Result": "Lose",
+        "Time": "2024/06/11"
+    },
+    {
+        "You": {
+            "HEAD": "20-082 MIND BETA",
+            "CORE": "07-061 MIND ALPHA",
+            "ARM": "AA-J-123 BASHO",
+            "LEG": "VP-422",
+            "BOOSTER": "IB-C03B: NGI 001",
+            "FCS": "IA-C01F: OCELLUS",
+            "GENERATOR": "VE-20B",
+            "R-ARM": "MA-E-210 ETSUJIN",
+            "L-ARM": "VE-66LRB",
+            "R-BACK": "BML-G2/P05MLT-10",
+            "L-BACK": "Vvc-760PR"
+        },
+        "Opponent": {
+            "HEAD": "VP-44D",
+            "CORE": "DF-BD-08 TIAN-QIANG",
+            "ARM": "EL-PA-00 ALBA",
+            "LEG": "2S-5000 DESSERT",
+            "BOOSTER": "ALULA/21E",
+            "FCS": "IA-C01F: OCELLUS",
+            "GENERATOR": "IB-C03G: NGI 000",
+            "R-ARM": "VE-66LRB",
+            "L-ARM": "MA-E-210 ETSUJIN",
+            "R-BACK": "EARSHOT",
+            "L-BACK": "EARSHOT"
+        },
+        "Result": "Win",
+        "Time": "2024/06/11"
+    },
+    {
+        "You": {
+            "HEAD": "20-082 MIND BETA",
+            "CORE": "07-061 MIND ALPHA",
+            "ARM": "AA-J-123 BASHO",
+            "LEG": "VP-422",
+            "BOOSTER": "IB-C03B: NGI 001",
+            "FCS": "IA-C01F: OCELLUS",
+            "GENERATOR": "VE-20B",
+            "R-ARM": "MA-E-210 ETSUJIN",
+            "L-ARM": "VE-66LRB",
+            "R-BACK": "BML-G2/P05MLT-10",
+            "L-BACK": "Vvc-760PR"
+        },
+        "Opponent": {
+            "HEAD": "HC-2000/BC SHADE EYE",
+            "CORE": "NACHTREIHER/40E",
+            "ARM": "EL-TA-10 FIRMEZA",
+            "LEG": "NACHTREIHER/42E",
+            "BOOSTER": "ALULA/21E",
+            "FCS": "FCS-G2/P05",
+            "GENERATOR": "VP-20C",
+            "R-ARM": "LR-037 HARRIS",
+            "L-ARM": "LR-037 HARRIS",
+            "R-BACK": "Vvc-703PM",
+            "L-BACK": "Vvc-70VPM"
+        },
+        "Result": "Lose",
+        "Time": "2024/06/11"
+    },
+    {
+        "You": {
+            "HEAD": "20-082 MIND BETA",
+            "CORE": "07-061 MIND ALPHA",
+            "ARM": "AA-J-123 BASHO",
+            "LEG": "VP-422",
+            "BOOSTER": "IB-C03B: NGI 001",
+            "FCS": "IA-C01F: OCELLUS",
+            "GENERATOR": "VE-20B",
+            "R-ARM": "MA-E-210 ETSUJIN",
+            "L-ARM": "VE-66LRB",
+            "R-BACK": "BML-G2/P05MLT-10",
+            "L-BACK": "Vvc-760PR"
+        },
+        "Opponent": {
+            "HEAD": "HD-033M VERRILL",
+            "CORE": "NACHTREIHER/40E",
+            "ARM": "AA-J-123 BASHO",
+            "LEG": "LAMMERGEIER/42F",
+            "BOOSTER": "FLUEGEL/21Z",
+            "FCS": "FCS-G2/P10SLT",
+            "GENERATOR": "IB-C03G: NGI 000",
+            "R-ARM": "HML-G3/P08SPL-06",
+            "L-ARM": "44-143 HMMR",
+            "R-BACK": "IB-C03W3: NGI 006",
+            "L-BACK": "BML-G3/P05ACT-02"
+        },
+        "Result": "Lose",
+        "Time": "2024/06/11"
+    },
+    {
+        "You": {
+            "HEAD": "20-082 MIND BETA",
+            "CORE": "07-061 MIND ALPHA",
+            "ARM": "AA-J-123 BASHO",
+            "LEG": "VP-422",
+            "BOOSTER": "IB-C03B: NGI 001",
+            "FCS": "IA-C01F: OCELLUS",
+            "GENERATOR": "VE-20B",
+            "R-ARM": "MA-E-210 ETSUJIN",
+            "L-ARM": "VE-66LRB",
+            "R-BACK": "BML-G2/P05MLT-10",
+            "L-BACK": "Vvc-760PR"
+        },
+        "Opponent": {
+            "HEAD": "VE-44B",
+            "CORE": "VE-40A",
+            "ARM": "NACHTREIHER/46E",
+            "LEG": "EL-TL-11 FORTALEZA",
+            "BOOSTER": "TANK BOOSTER",
+            "FCS": "IA-C01F: OCELLUS",
+            "GENERATOR": "VP-20D",
+            "R-ARM": "IA-C01W6: NB-REDSHIFT",
+            "L-ARM": "IA-C01W6: NB-REDSHIFT",
+            "R-BACK": "IB-C03W3: NGI 006",
+            "L-BACK": "IB-C03W3: NGI 006"
+        },
+        "Result": "Win",
+        "Time": "2024/06/11"
+    },
+    {
+        "You": {
+            "HEAD": "20-082 MIND BETA",
+            "CORE": "07-061 MIND ALPHA",
+            "ARM": "AA-J-123 BASHO",
+            "LEG": "VP-422",
+            "BOOSTER": "IB-C03B: NGI 001",
+            "FCS": "IA-C01F: OCELLUS",
+            "GENERATOR": "VE-20B",
+            "R-ARM": "MA-E-210 ETSUJIN",
+            "L-ARM": "VE-66LRB",
+            "R-BACK": "BML-G2/P05MLT-10",
+            "L-BACK": "Vvc-760PR"
+        },
+        "Opponent": {
+            "HEAD": "VP-44D",
+            "CORE": "07-061 MIND ALPHA",
+            "ARM": "AA-J-123 BASHO",
+            "LEG": "VP-422",
+            "BOOSTER": "ALULA/21E",
+            "FCS": "IA-C01F: OCELLUS",
+            "GENERATOR": "DF-GN-08 SAN-TAI",
+            "R-ARM": "SG-027 ZIMMERMAN",
+            "L-ARM": "SG-027 ZIMMERMAN",
+            "R-BACK": "Vvc-700LD",
+            "L-BACK": "VP-61PS"
+        },
+        "Result": "Win",
+        "Time": "2024/06/12"
+    },
+    {
+        "You": {
+            "HEAD": "20-082 MIND BETA",
+            "CORE": "07-061 MIND ALPHA",
+            "ARM": "AA-J-123 BASHO",
+            "LEG": "VP-422",
+            "BOOSTER": "IB-C03B: NGI 001",
+            "FCS": "IA-C01F: OCELLUS",
+            "GENERATOR": "VE-20B",
+            "R-ARM": "MA-E-210 ETSUJIN",
+            "L-ARM": "VE-66LRB",
+            "R-BACK": "BML-G2/P05MLT-10",
+            "L-BACK": "Vvc-760PR"
+        },
+        "Opponent": {
+            "HEAD": "IA-C01H: EPHEMERA",
+            "CORE": "VE-40A",
+            "ARM": "IA-C01A: EPHEMERA",
+            "LEG": "RC-2000 SPRING CHICKEN",
+            "BOOSTER": "BST-G1/P10",
+            "FCS": "IA-C01F: OCELLUS",
+            "GENERATOR": "DF-GN-08 SAN-TAI",
+            "R-ARM": "SG-026 HALDEMAN",
+            "L-ARM": "SG-026 HALDEMAN",
+            "R-BACK": "Vvc-700LD",
+            "L-BACK": "Vvc-700LD"
+        },
+        "Result": "Win",
+        "Time": "2024/06/12"
+    },
+    {
+        "You": {
+            "HEAD": "20-082 MIND BETA",
+            "CORE": "07-061 MIND ALPHA",
+            "ARM": "AA-J-123 BASHO",
+            "LEG": "VP-422",
+            "BOOSTER": "IB-C03B: NGI 001",
+            "FCS": "IA-C01F: OCELLUS",
+            "GENERATOR": "VE-20B",
+            "R-ARM": "MA-E-210 ETSUJIN",
+            "L-ARM": "VE-66LRB",
+            "R-BACK": "BML-G2/P05MLT-10",
+            "L-BACK": "Vvc-760PR"
+        },
+        "Opponent": {
+            "HEAD": "VP-44D",
+            "CORE": "07-061 MIND ALPHA",
+            "ARM": "VP-46S",
+            "LEG": "VP-422",
+            "BOOSTER": "ALULA/21E",
+            "FCS": "IA-C01F: OCELLUS",
+            "GENERATOR": "DF-GN-08 SAN-TAI",
+            "R-ARM": "EL-PW-00 VIENTO",
+            "L-ARM": "EL-PW-00 VIENTO",
+            "R-BACK": "Vvc-703PM",
+            "L-BACK": "WB-0010 DOUBLE TROUBLE"
+        },
+        "Result": "Win",
+        "Time": "2024/06/12"
+    },
+    {
+        "You": {
+            "HEAD": "20-082 MIND BETA",
+            "CORE": "07-061 MIND ALPHA",
+            "ARM": "AA-J-123 BASHO",
+            "LEG": "VP-422",
+            "BOOSTER": "IB-C03B: NGI 001",
+            "FCS": "IA-C01F: OCELLUS",
+            "GENERATOR": "VE-20B",
+            "R-ARM": "MA-E-210 ETSUJIN",
+            "L-ARM": "VE-66LRB",
+            "R-BACK": "BML-G2/P05MLT-10",
+            "L-BACK": "Vvc-760PR"
+        },
+        "Opponent": {
+            "HEAD": "20-082 MIND BETA",
+            "CORE": "NACHTREIHER/40E",
+            "ARM": "04-101 MIND ALPHA",
+            "LEG": "RC-2000 SPRING CHICKEN",
+            "BOOSTER": "AB-J-137 KIKAKU",
+            "FCS": "IB-C03F: WLT 001",
+            "GENERATOR": "VP-20D",
+            "R-ARM": "VE-66LRB",
+            "L-ARM": "VE-66LRB",
+            "R-BACK": "BML-G2/P03MLT-06",
+            "L-BACK": "BML-G2/P03MLT-06"
+        },
+        "Result": "Win",
+        "Time": "2024/06/12"
+    },
+    {
+        "You": {
+            "HEAD": "20-082 MIND BETA",
+            "CORE": "07-061 MIND ALPHA",
+            "ARM": "AA-J-123 BASHO",
+            "LEG": "VP-422",
+            "BOOSTER": "IB-C03B: NGI 001",
+            "FCS": "IA-C01F: OCELLUS",
+            "GENERATOR": "VE-20B",
+            "R-ARM": "MA-E-210 ETSUJIN",
+            "L-ARM": "VE-66LRB",
+            "R-BACK": "BML-G2/P05MLT-10",
+            "L-BACK": "Vvc-760PR"
+        },
+        "Opponent": {
+            "HEAD": "VP-44D",
+            "CORE": "NACHTREIHER/40E",
+            "ARM": "AA-J-123 BASHO",
+            "LEG": "LAMMERGEIER/42F",
+            "BOOSTER": "IB-C03B: NGI 001",
+            "FCS": "FCS-G2/P10SLT",
+            "GENERATOR": "IB-C03G: NGI 000",
+            "R-ARM": "IA-C01W1: NEBULA",
+            "L-ARM": "HML-G3/P08SPL-06",
+            "R-BACK": "IB-C03W3: NGI 006",
+            "L-BACK": "44-143 HMMR"
+        },
+        "Result": "Lose",
+        "Time": "2024/06/12"
+    },
+    {
+        "You": {
+            "HEAD": "20-082 MIND BETA",
+            "CORE": "07-061 MIND ALPHA",
+            "ARM": "AA-J-123 BASHO",
+            "LEG": "VP-422",
+            "BOOSTER": "IB-C03B: NGI 001",
+            "FCS": "IA-C01F: OCELLUS",
+            "GENERATOR": "VE-20B",
+            "R-ARM": "MA-E-210 ETSUJIN",
+            "L-ARM": "VE-66LRB",
+            "R-BACK": "BML-G2/P05MLT-10",
+            "L-BACK": "Vvc-760PR"
+        },
+        "Opponent": {
+            "HEAD": "VP-44D",
+            "CORE": "EL-PC-00 ALBA",
+            "ARM": "AA-J-123 BASHO",
+            "LEG": "NACHTREIHER/42E",
+            "BOOSTER": "ALULA/21E",
+            "FCS": "FC-006 ABBOT",
+            "GENERATOR": "AG-T-005 HOKUSHI",
+            "R-ARM": "LR-037 HARRIS",
+            "L-ARM": "MA-E-210 ETSUJIN",
+            "R-BACK": "Vvc-703PM",
+            "L-BACK": "IA-C01W7: ML-REDSHIFT"
+        },
+        "Result": "Win",
+        "Time": "2024/06/12"
+    }
+]
