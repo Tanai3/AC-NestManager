@@ -62,7 +62,7 @@ def save_result(selected_unit_dict, selected_opp_unit_dict, result):
     result_dict["Opponent"] = selected_opp_unit_dict
     result_dict["Result"] = result
     result_dict["Time"] = datetime.datetime.now().strftime("%Y/%m/%d")
-    st.json(json.dumps(result_dict))
+    #st.json(json.dumps(result_dict))
 
     try:
         with open(result_file_path, "r") as f:
@@ -115,16 +115,22 @@ def main():
 
     col1, col2 = st.columns(2)
     with col1:
-        st.subheader("YOU")
+        st.subheader("You")
         select_preset = st.selectbox("Preset", ac_preset.keys(), index=0, key="preset_you")
         with st.expander("Your assembly"):
             selected_unit_dict = create_unit_selection(col1, "you", selected_unit_dict, ac_preset[select_preset])
+        you_tag_options = ["軽2","中2","重2","軽逆","中逆","重逆","軽4","中4","重4","軽タン","ホバタン","ガチタン","重ショ","LRB","ライフル","近接","ミサイラー","ネビュラ","バズーカ","エツジン","セラピスト","軽レザショ","ガチャ","盾","その他"]
+        you_tags = st.multiselect("Tag", options=you_tag_options, default=["軽2", "LRB", "ガチャ"],key="you_tags")
+        selected_unit_dict["Tags"] = you_tags
 
     with col2:
         st.subheader("Opponent")
         select_opp_preset = st.selectbox("Preset", ac_preset.keys(), index=0, key="preset_opp")
         with st.expander("Opponent's assembly"):
             selected_opp_unit_dict = create_unit_selection(col2, "opp", selected_opp_unit_dict, ac_preset[select_opp_preset])
+        opp_tag_options = ["軽2","中2","重2","軽逆","中逆","重逆","軽4","中4","重4","軽タン","ホバタン","ガチタン","重ショ","LRB","ライフル","近接","ミサイラー","ネビュラ","バズーカ","エツジン","セラピスト","軽レザショ","ガチャ","盾","その他"]
+        opp_tags = st.multiselect("Tag", options=opp_tag_options, default=[],key="opp_tags")
+        selected_opp_unit_dict["Tags"] = opp_tags
 
     st.divider()
     st.subheader("Match Result")
